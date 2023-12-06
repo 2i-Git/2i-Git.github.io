@@ -52,7 +52,7 @@ function toggleImage(current){
 function startSurvey(){
     let url = getSurveyURL();
     alert("Go TO URL " + url);
-    //window.location.href = url;
+    window.location.href = url;
  }
 
 /**
