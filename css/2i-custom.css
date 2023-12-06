@@ -1,0 +1,13 @@
+#submitButton{
+    background-color: #54D499;
+    color: #000;
+    text-transform: uppercase;
+    border-radius: 32px;
+    padding: 1rem 2rem 0.75rem;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 28px;
+}
+a {
+ color: white;
+}
