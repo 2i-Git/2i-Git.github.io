@@ -2132,7 +2132,7 @@ textarea.w-input, textarea.w-select {
 body {
   background-color: var(--blue-2);
   color: var(--white);
-  background-image: url("https://assets-global.website-files.com/6565f32857856b5eadcf59ad/6565ffa0ba6a9b373e846462_Elipse-pattern-background.svg");
+  background-image: url("../images/background.svg");
   background-position: 50% 0;
   background-size: 100%;
   font-family: Epilogue, sans-serif;
